@@ -1,2 +1,2 @@
-ls *.sh | sed 's/.sh//g'
+ls *.sh | sed 's/\.sh//g'
 
